@@ -12,5 +12,8 @@ Unchecked languages denote languages I am yet to tinker with.
 
 - [X] **Java**
 - [X] **Python**
+- [ ] C++
+- [ ] C
+- [ ] C#
 - [ ] Clojure
 - [ ] Haskell

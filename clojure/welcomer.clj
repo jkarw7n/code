@@ -8,3 +8,6 @@
 
 (welcome "Mark" "Allyszah" "Paul Jan" "Ricardo")
 ; welcomes each person in the arguments
+; Hello Mark!
+; Hello Allyszah!
+; etc...

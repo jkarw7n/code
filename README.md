@@ -15,6 +15,6 @@ Unchecked languages denote languages I am yet to tinker with.
 - [ ] C++
 - [ ] C
 - [ ] C#
-- [X] Clojure
+- [X] Clojure (_which I don't really like_)
 - [ ] Haskell
 - [ ] Scala (?)

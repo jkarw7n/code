@@ -1,4 +1,4 @@
-(ns clojure.welcomer)
+(ns welcomer)
 
 (defn welcome [& people]
   (doseq [person people]

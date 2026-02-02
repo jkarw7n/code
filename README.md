@@ -16,7 +16,7 @@ Unchecked languages denote languages I am yet to tinker with.
 - [X] **Java**
 - [X] **Python**
 - [ ] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] C++
 - [ ] C
 - [ ] C#

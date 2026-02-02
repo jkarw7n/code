@@ -11,7 +11,7 @@ class LanguageInformation
   end
 end
 
-kawesqar = Language.new "Kawésqar", "Alacalufan", "Chile", 10
+kawesqar = LanguageInformation.new "Kawésqar", "Alacalufan", "Chile", 10
 kawesqar.print_info
 kawesqar.speakers=-1
 kawesqar.print_info

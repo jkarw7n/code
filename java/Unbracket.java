@@ -4,10 +4,10 @@ class Unbracket {
         String newString = "";
         for (char c : s.toCharArray()) {
             if (c != '[' && c != ']') { newString += c; }
-            else if (c == '[') { newString += " ["; }
-            else { newString += "] "; }
+            else if (c == '[') { newString += "~["; }
+            else { newString += "]~"; }
         }
-        String split[] = newString.split(" "), output = "";
+        String split[] = newString.split("~"), output = "";
         for (String e : split) {
             if (!e.contains("[")) { output += e; }
             else {
